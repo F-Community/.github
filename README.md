@@ -1,4 +1,4 @@
-![[F_Sharp_logo.svg.png|278]]
+![](img/F_Sharp_logo.svg.png)
 
 
 #                      F# community
